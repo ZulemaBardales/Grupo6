@@ -9,4 +9,6 @@ Bienvenidos al repositorio del Grupo 6. Nuestro objetivo es desarrollar una solu
 ## 3. Inkari Ayquipa
 ![2d15b350-a303-486d-9f53-c7f926105a6b](https://github.com/user-attachments/assets/ddce0fa0-51ef-4b27-820c-ec81828b5c16)
 - Rol: Responsable en electronica
-## 
+## Renzo Yabar 
+![WhatsApp Image 2025-04-07 at 2 37 38 PM](https://github.com/user-attachments/assets/6d053e27-935c-4d38-ab6e-a2c2eaaa0287)
+- Rol: modelador 3D
