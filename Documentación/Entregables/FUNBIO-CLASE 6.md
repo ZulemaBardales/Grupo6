@@ -2,7 +2,7 @@
 
 ![33de9920-c7e9-479c-9225-b2bccb4ec758](https://github.com/user-attachments/assets/dd05f124-12a1-4f66-ab03-465d1370a0b2)
 
-# Control de Dirección del Motor GA12-N20 con Arduino y L298N
+## Control de Dirección del Motor GA12-N20 con Arduino y L298N
 En el primer ejemplo, podemos controlar el sentido gracias al arduino. 
 El código hace que el motor gire en ambas direcciones durante un tiempo determinado y luego se detenga.
 El motor alternará entre dos direcciones (horario y antihorario) durante 5 segundos en cada sentido y se detendrá por 1 segundo entre cambios de dirección.
